@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Die Young",
+  "base_artist": "Ke$ha",
+  "createdAt": "2026-02-11T12:43:30.644598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/01_Die_Young_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If I Die Young",
+      "artist": "The Band Perry",
+      "has_synced": true,
+      "path": "select/02_If_I_Die_Young_The_Band_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If the Good Die Young",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/03_If_the_Good_Die_Young_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If the Good Die Young (Album Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/04_If_the_Good_Die_Young_(Album_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Die Young (Cookin Soul remix)",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/05_Good_Die_Young_(Cookin_Soul_remix)_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die Young Stay Pretty",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/06_Die_Young_Stay_Pretty_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Die Young Stay Pretty",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/07_Die_Young_Stay_Pretty_Blondie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Good Die Young",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/08_The_Good_Die_Young_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Tried to Die Young",
+      "artist": "Marc With a C",
+      "has_synced": true,
+      "path": "select/09_I_Tried_to_Die_Young_Marc_With_a_C.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/10_Die_Young_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Die Young - Live B-Side",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/11_Die_Young_-_Live_B-Side_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Die Young (live B-side)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/12_Die_Young_(live_B-side)_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Die Young (Live)",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/13_Die_Young_(Live)_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Live Fast - Die Young",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/14_Live_Fast_-_Die_Young_Aqua.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Too Old to Die Young",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/15_Too_Old_to_Die_Young_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Only the Good Die Young",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/16_Only_the_Good_Die_Young_Billy_Joel.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Let Me Die Young",
+      "artist": "Andy Taylor",
+      "has_synced": false,
+      "path": "select/17_Don't_Let_Me_Die_Young_Andy_Taylor.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/18_Die_Young_Black_Sabbath.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die Young",
+      "artist": "Ke$ha",
+      "has_synced": false,
+      "path": "select/pl_01_Die_Young_Ke$ha.txt"
+    }
+  ]
+}
